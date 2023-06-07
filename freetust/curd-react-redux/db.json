@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "postId": 1,
+      "title": "Post 01 ",
+      "imageUrl": "https://imglarger.com/Images/before-after/ai-image-enlarger-1-after-2.jpg",
+      "description": "Accompanied by English versions from the 1914 translation by H. Rackham.",
+      "status": true
+    },
+    {
+      "id": 2,
+      "postId": 11,
+      "title": "Post 011 ",
+      "imageUrl": "https://media.istockphoto.com/id/1322277517/photo/wild-grass-in-the-mountains-at-sunset.jpg?s=612x612&w=0&k=20&c=6mItwwFFGqKNKEAzv0mv6TaxhLN3zSE43bWmFN--J5w=",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. ",
+      "status": false
+    },
+    {
+      "id": 3,
+      "postId": 111,
+      "title": "Post 0111 ",
+      "imageUrl": "https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000",
+      "description": "This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+      "status": false
+    },
+    {
+      "id": 4,
+      "postId": 1111,
+      "title": "Post 01111",
+      "imageUrl": "https://imgv3.fotor.com/images/blog-cover-image/part-blurry-image.jpg",
+      "description": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur",
+      "status": true
+    },
+    {
+      "id": 5,
+      "postId": 11111,
+      "title": "Post 011111 ",
+      "imageUrl": "https://img-19.commentcamarche.net/cI8qqj-finfDcmx6jMK6Vr-krEw=/1500x/smart/b829396acc244fd484c5ddcdcb2b08f3/ccmcms-commentcamarche/20494859.jpg",
+      "description": "It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. ",
+      "status": true
+    },
+    {
+      "id": 6,
+      "postId": 111111,
+      "title": "Post 0111111 ",
+      "imageUrl": "https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. ",
+      "status": false
+    },
+    {
+      "postId": "ádfsdfdsfsd",
+      "title": "saddsasdadas",
+      "imageUrl": "blob:http://localhost:3000/9b1633cc-c06e-4ee1-84ad-db36dff22f10",
+      "description": false,
+      "id": 7
+    }
+  ]
+}
